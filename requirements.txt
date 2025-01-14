@@ -1,0 +1,6 @@
+dnspython==2.7.0
+# Editable install with no version control (mqtt_mongo==0.1)
+-e c:\users\morri\desktop\projects\mqtt-mongo
+paho-mqtt==2.1.0
+pymongo==4.10.1
+setuptools==75.8.0

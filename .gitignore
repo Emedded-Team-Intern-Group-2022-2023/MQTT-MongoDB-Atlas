@@ -1,0 +1,12 @@
+# Ignore virtual environment
+mqtt_mongo/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore egg-info (build artifacts)
+mqtt_mongo.egg-info/
+
+# Ignore environment settings
+.env
